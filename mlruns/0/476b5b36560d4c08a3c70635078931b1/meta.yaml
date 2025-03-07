@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mukes/Desktop/Data_Science_Projects/Full-Stack-ML-Project-/mlruns/0/476b5b36560d4c08a3c70635078931b1/artifacts
+end_time: 1741388699445
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 476b5b36560d4c08a3c70635078931b1
+run_name: bustling-quail-552
+run_uuid: 476b5b36560d4c08a3c70635078931b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741388695227
+status: 3
+tags: []
+user_id: mukes

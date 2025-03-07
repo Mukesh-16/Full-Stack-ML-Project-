@@ -4,7 +4,7 @@ from ML_Project import logger
 
 STAGE_NAME = "DATA VALIDATION"
 
-class DataValidationTrainingPipeline:
+class DataValidationPipeline:
     def __init__(self):
         pass
 
@@ -17,7 +17,7 @@ class DataValidationTrainingPipeline:
 if __name__ == '__main__':
     try:
         logger.info(f">>>>>> stage {STAGE_NAME} started <<<<<<")
-        obj = DataValidationTrainingPipeline()
+        obj = DataValidationPipeline()
         obj.main()
         logger.info(f">>>>>> stage {STAGE_NAME} completed <<<<<<\n\nx==========x")
         

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mukes/Desktop/Data_Science_Projects/Full-Stack-ML-Project-/mlruns/0/182e4969436a4af487983a8bced4735e/artifacts
+end_time: 1741389364597
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 182e4969436a4af487983a8bced4735e
+run_name: clean-cat-453
+run_uuid: 182e4969436a4af487983a8bced4735e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741389359223
+status: 3
+tags: []
+user_id: mukes

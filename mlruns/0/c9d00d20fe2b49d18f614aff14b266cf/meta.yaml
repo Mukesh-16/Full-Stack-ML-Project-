@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mukes/Desktop/Data_Science_Projects/Full-Stack-ML-Project-/mlruns/0/c9d00d20fe2b49d18f614aff14b266cf/artifacts
+end_time: 1741388770394
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c9d00d20fe2b49d18f614aff14b266cf
+run_name: nimble-seal-486
+run_uuid: c9d00d20fe2b49d18f614aff14b266cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741388766117
+status: 3
+tags: []
+user_id: mukes

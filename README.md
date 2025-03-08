@@ -57,20 +57,15 @@ open your local host and port
 ### dagshub
 [dagshub](https://dagshub.com/)
 
-MLFLOW_TRACKING_URI = https://dagshub.com/mbairu/Full-Stack-ML-Project-.mlflow \
-MLFLOW_TRACKING_USERNAME = mbairu \
-MLFLOW_TRACKING_PASSWORD = 87385c32a7a01dc959f1d28f0bfa41836563e153 \
-python script.py
-
-Run this to export as env variables:
+Export the following as env variables:
 
 ```bash
 
-export MLFLOW_TRACKING_URI = https://dagshub.com/mbairu/Full-Stack-ML-Project-.mlflow
+export MLFLOW_TRACKING_URI = 
 
-export MLFLOW_TRACKING_USERNAME = mbairu 
+export MLFLOW_TRACKING_USERNAME = 
 
-export MLFLOW_TRACKING_PASSWORD = 87385c32a7a01dc959f1d28f0bfa41836563e153
+export MLFLOW_TRACKING_PASSWORD = 
 
 ```
 
@@ -106,7 +101,7 @@ export MLFLOW_TRACKING_PASSWORD = 87385c32a7a01dc959f1d28f0bfa41836563e153
 	2. AmazonEC2FullAccess
 	
 ## 3. Create ECR repo to store/save docker image
-    - Save the URI: 566373416292.dkr.ecr.ap-south-1.amazonaws.com/mlproj
+    - Save the URI: 767828722233.dkr.ecr.us-east-2.amazonaws.com/mlproject
 
 ## 4. Create EC2 machine (Ubuntu) 
 
@@ -139,7 +134,7 @@ export MLFLOW_TRACKING_PASSWORD = 87385c32a7a01dc959f1d28f0bfa41836563e153
 
     AWS_REGION = us-east-1
 
-    AWS_ECR_LOGIN_URI = demo>>  566373416292.dkr.ecr.ap-south-1.amazonaws.com
+    AWS_ECR_LOGIN_URI = 
 
     ECR_REPOSITORY_NAME = simple-app
 

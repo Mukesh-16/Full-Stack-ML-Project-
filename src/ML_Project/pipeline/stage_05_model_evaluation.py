@@ -4,10 +4,11 @@ from ML_Project import logger
 import os
 
 STAGE_NAME = "Model Evaluation"
-
+'''
 os.environ["MLFLOW_TRACKING_URI"]="https://dagshub.com/mbairu/Full-Stack-ML-Project-.mlflow"
 os.environ["MLFLOW_TRACKING_USERNAME"]="mbairu"
 os.environ["MLFLOW_TRACKING_PASSWORD"]="87385c32a7a01dc959f1d28f0bfa41836563e153"
+'''
 
 class ModelEvaluationPipeline:
     def __init__(self):
